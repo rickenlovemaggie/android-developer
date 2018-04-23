@@ -1,2 +1,7 @@
-# android-developer
-this is translation of android developer docs
+
+## 前言
+
+千里之行，始于跬步。想要走的更远，将基础打得更牢固必然是最明智的选择，而在对于 Android 基础学习来说，Google 的官方文档毫无疑问是最好的选择，因此无论如何，Google 的文档都影响仔细、详尽的学习一遍。
+
+
+
